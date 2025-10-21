@@ -1,23 +1,23 @@
-# 🌐 Personal Portfolio Website — Sonia Akter
+# Personal Portfolio Website — Sonia Akter
 
 A modern and responsive **personal portfolio website** built with **React.js (frontend)** and **Strapi CMS (backend)**.  
 This project showcases my work, blog posts, and contact form with dynamic content managed directly from Strapi.
 
 ---
 
-## 🚀 Features
+## Features
 
-- 🎨 **Responsive Design:** Fully responsive layout for desktop, tablet, and mobile devices.
-- 🧠 **Dynamic Content:** All pages (Home, About, Projects, Blog, Contact) are fetched from Strapi.
-- 💼 **Projects Section:** Displays projects dynamically with title, description, features, tech stack, and images.
-- 📰 **Blog System:** Fetches posts from Strapi CMS with rich text support and images.
-- 💬 **Contact Form:** Allows users to send messages; saved directly to the backend.
-- 🧾 **Reusable Components:** Modular and clean code structure for easy maintenance.
-- ⚡ **Professional UI:** Consistent design with hover effects, shadows, and smooth transitions.
+- **Responsive Design:** Fully responsive layout for desktop, tablet, and mobile devices.
+- **Dynamic Content:** All pages (Home, About, Projects, Blog, Contact) are fetched from Strapi.
+- **Projects Section:** Displays projects dynamically with title, description, features, tech stack, and images.
+- **Blog System:** Fetches posts from Strapi CMS with rich text support and images.
+- **Contact Form:** Allows users to send messages; saved directly to the backend.
+- **Reusable Components:** Modular and clean code structure for easy maintenance.
+- **Professional UI:** Consistent design with hover effects, shadows, and smooth transitions.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### **Frontend**
 
@@ -36,7 +36,7 @@ This project showcases my work, blog posts, and contact form with dynamic conten
 
 ---
 
-## 📦 Installation & Setup
+## Installation & Setup
 
 Follow these steps to run the project locally:
 
@@ -69,7 +69,7 @@ npx create-strapi-app@latest backend --quickstart
 This runs Strapi on:
 👉 http://localhost:1337
 
-## 🖼️ Screenshots
+## Screenshots
 
 ### Home page
 
