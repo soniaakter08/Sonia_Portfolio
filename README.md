@@ -61,9 +61,9 @@ This runs the frontend on:
 
 npx create-strapi-app@latest backend --quickstart
 
-cd backend
-npm install
-npm run develop
+- cd backend
+- npm install
+- npm run develop
 
 This runs Strapi on:
 👉 http://localhost:1337
