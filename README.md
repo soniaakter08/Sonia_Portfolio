@@ -53,7 +53,8 @@ npm install
 
 ### 3️⃣ Start the Frontend (React)
 
-npm start
+- npm start
+
 This runs the frontend on:
 👉 http://localhost:3000
 
