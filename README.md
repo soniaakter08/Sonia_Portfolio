@@ -68,24 +68,24 @@ npm run develop
 This runs Strapi on:
 👉 http://localhost:1337
 
-### 5️⃣ Screenshots
+## Screenshots
 
-## Home page
+### Home page
 
 - ![Alt text](https://github.com/soniaakter08/Sonia_Portfolio/blob/master/screenshots/Home_page.png)
 
-## About Page
+### About Page
 
 - ![Alt text](https://github.com/soniaakter08/Sonia_Portfolio/blob/master/screenshots/About_page.png)
 
-## Project Page
+### Project Page
 
 - ![Alt text](https://github.com/soniaakter08/Sonia_Portfolio/blob/master/screenshots/Project_page.png)
 
-## Blog Page
+### Blog Page
 
 - ![Alt text](https://github.com/soniaakter08/Sonia_Portfolio/blob/master/screenshots/Blog_page.png)
 
-## Contact Page
+### Contact Page
 
 - ![Alt text](https://github.com/soniaakter08/Sonia_Portfolio/blob/master/screenshots/Contact_page.png)
