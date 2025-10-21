@@ -69,7 +69,7 @@ npx create-strapi-app@latest backend --quickstart
 This runs Strapi on:
 👉 http://localhost:1337
 
-## Screenshots
+## 🖼️ Screenshots
 
 ### Home page
 
